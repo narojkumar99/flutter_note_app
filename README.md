@@ -7,7 +7,7 @@ This Application is Created Using Flutter.
 ## Featues 
 
 *  Save Note.
-*  Dynamic Theame.
+*  Dynamic Theames.
 *  Share App Directly from Application.
 *  Amazing Animation on FAB.
 
